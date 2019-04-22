@@ -1,0 +1,1 @@
+Strain,Self_control,Attachment,Passion,Delinquency
